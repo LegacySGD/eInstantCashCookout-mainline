@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Programvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Totala vinster"/>
+<phrase key="totalWager" value="Total insats"/>
+<phrase key="winningNumbers" value="Turnummer"/>
+<phrase key="yourNumbers" value="Dina nummer"/>
+<phrase key="youMatched" value="Du matchade"/>
+<phrase key="boardNumbers" value="Nummer"/>
+<phrase key="boardValues" value="Prisvärde"/>
+<phrase key="winAll" value="Vinn alle"/>
+</translation>
